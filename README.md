@@ -35,7 +35,7 @@ python circle_of_fifths.py
 ```
 The ★ Operator performs a projection onto the admissible subspace defined by the Law of Admissibility. The interval targets are not imposed externally but arise as the structural coordinates of this subspace.
 
-The output shows the full comparison table: Raw Hz, Pythagorean comma artifact, and ET-corrected frequency for all 12 tones. The ★ Convergence Operator identifies C D E F G A B without being told where they are.
+The output shows the full comparison table: Raw Hz, Pythagorean comma artifact, and ET-corrected frequency for all 12 tones. It identifies C D E F G A B without being told where they are.
 
 ---
 
